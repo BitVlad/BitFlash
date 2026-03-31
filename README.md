@@ -7,7 +7,7 @@ BitFlash — программа для записи ISO-образов на USB-
 ### Возможности
 
 - Определение подключённых флешек (буква, метка, размер)
-- Выбор ISO-образа (в разработке)
+- Выбор ISO-образа
 - Форматирование в FAT32 (в разработке)
 - Запись ISO на флешку (в разработке)
 
@@ -35,7 +35,7 @@ BitFlash is a program for writing ISO images to USB flash drives.
 ### Features
 
 - USB drive detection (letter, label, size)
-- ISO selection (in progress)
+- ISO selection
 - FAT32 formatting (in progress)
 - ISO writing to USB (in progress)
 
